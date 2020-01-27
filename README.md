@@ -17,6 +17,14 @@ Run Docker
 sudo docker-compose up
 ```
 
+# Task nr. 1
+
+All details, modifications and suggestions you can find in script1_mod.py file.
+
+# Task nr. 2
+
+All details about my REST API you can find below README.md file and the script which uploads and downloads data from Emploee Registry Service called script2.py
+
 # Employee Registry Service
 
 ## Usage

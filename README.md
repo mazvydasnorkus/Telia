@@ -1,10 +1,21 @@
 # Telia
 
+## How to start a project
+
 Clone This Project (Make Sure You Have Git Installed)
 ```
 https://github.com/mazvydasnorkus/Telia.git
 ```
+Download docker-compose
+```
+sudo curl -L "https://github.com/docker/compose/releases/download/1.23.2/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose
 
+```
+Run Docker
+
+```
+sudo docker-compose up
+```
 
 # Employee Registry Service
 
